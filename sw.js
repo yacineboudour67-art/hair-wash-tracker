@@ -1,4 +1,4 @@
-const CACHE = 'shampoing-v1';
+const CACHE = 'shampoing-v2';
 const FILES = ['./', './index.html', './manifest.json'];
 
 self.addEventListener('install', e => {
